@@ -2,9 +2,9 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-green)
 ![license](https://img.shields.io/badge/license-MIT%20%2B%20-blue)
-![node](https://img.shields.io/badge/Node.js-16%2B-orange)
-![discordjs](https://img.shields.io/badge/discord.js-14.x-lightgrey)
-![pm2](https://img.shields.io/badge/pm2-supported-brightgreen)
+![cpp](https://img.shields.io/badge/language-C%2FC%2B%2B-blue)
+![algorithms](https://img.shields.io/badge/algorithms-challenges-orange)
+![data_structures](https://img.shields.io/badge/data%20structures-practice-yellow)
 ![icon](asset/icon.png)
 
 ---
