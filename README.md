@@ -1,4 +1,4 @@
-# C_geeksforgeeks
+# C_algorithm
 
 ![version](https://img.shields.io/badge/version-1.0.0-green)
 ![license](https://img.shields.io/badge/license-MIT%20%2B%20-blue)
@@ -11,8 +11,9 @@
 
 ## 專案說明
 
-**C_geeksforgeeks**  
-這是一個基於 C/C++ 撰寫的「geeksforgeeks」競賽學習專案，通過競賽題目快速學習 C/C++ 基本語言。
+**C_algorithm**  
+這是一個基於 C/C++ 撰寫的學習專案，旨在幫助使用者通過解決各種程式設計題目、演算法挑戰和數據結構實踐，快速學習和掌握 C/C++ 基本語言。除了競賽題目，專案內容還包括實作不同的演算法、資料結構，並且提供詳細的解題過程，協助使用者在實際應用中提升編程能力。
+
 
 ---
 
